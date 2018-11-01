@@ -1,0 +1,129 @@
+
+@font-face {
+    font-family: 'polyaa';
+    src: url('../fontes/POLYA.otf');
+
+}
+#apresentacao h1{
+    font-family: 'polyaa';
+    font-size: 9rem;
+    color: #ff013b;
+    font-weight: 500;
+}
+
+#navegacao{
+    height: 70px;
+    font-size: 1.7rem;
+    font-weight: 400;
+}
+
+#navbarNavDropdown ul li{
+    margin-left: 20px;
+}
+#line1{
+    background-color: blueviolet;
+    height: 2px;
+}
+
+#line2{
+    background-color: aqua;
+    height: 2px;
+}
+
+#central{
+    padding: 5px;
+}
+
+#apresentacao{
+
+    background-image: url('../img/fundo.jpg');   
+    padding: 80px;
+    text-align: center;
+    
+    
+}
+
+#sobre{
+    padding: 50px;
+    text-align: justify;
+    
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.botaoC{
+    padding: 20px;
+    
+}
+.botaoC a{
+    padding: 15px;
+}
+
+
+#apinformal{
+    padding-top: 40px;
+    padding-bottom: 0px;
+    background-color: rgb(176, 92, 255);
+    text-align: justify;
+    font-family: 'Fredoka One', cursive;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+div img{
+    background-color: rgb(176, 92, 255);
+    opacity: .5;
+    size: 300px;
+    
+}
+
+div h2 a{
+    color: rgb(0, 255, 0);
+}
+
+#rodape{
+    padding-top: 45px;
+    padding-bottom: 45px;
+    background-color: rgb(32, 31, 31);
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.rodapelink{
+    background-color: black;
+    color: aliceblue;
+    padding-top: 30px;
+    
+    
+}
+
+.rodapelink div{
+    text-align: center;
+
+}
+
+.rodapelink div ul{
+    padding-left: 0;
+    -webkit-padding-start: 0;
+    list-style-type: none;
+}
+.rodapelink div ul li{
+    display: inline;
+
+}
+
+.rodapelink div ul li a{
+    color: white;
+    margin: 10px;
+
+    
+}
+.rodapelink div ul li a:hover{
+    color:aqua;
+}
+
+.rodapeicone p a{
+    font-family: 'Monoton', cursive;
+    font-size: 1rem;
+}

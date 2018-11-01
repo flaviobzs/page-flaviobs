@@ -6,7 +6,7 @@
 }
 #apresentacao h1{
     font-family: 'polyaa';
-    font-size: 7rem;
+    font-size: 5.5rem;
     color: #ff013b;
     font-weight: 500;
 }
@@ -37,7 +37,7 @@
 #apresentacao{
 
     background-image: url('../img/fundo.jpg');   
-    padding: 80px;
+    padding: 120px;
     text-align: center;
     
     
